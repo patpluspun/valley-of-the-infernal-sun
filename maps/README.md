@@ -1,0 +1,1 @@
+Use this directory to store your maps. To use a map in Avrae, right click on the image (or long press on mobile) and "Open in New Tab". You will get a githubusercontent.com url, use that url with OTFBM.
